@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Itauriya</h1>
-<h3 align="center">A passionate AI, ML and Consult enthusiast from Jhansi, India</h3>
+<h3 align="center">A passionate AI, ML and Consult enthusiast from Uttar Pradesh, India</h3>
 
 - 🌱 I’m currently learning **DSA, SQL and ANSYS Fluent**
 
