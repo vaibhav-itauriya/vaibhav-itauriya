@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Itauriya</h1>
-<h3 align="center">A passionate AI, ML and Consult enthusiast from Uttar Pradesh, India</h3>
+<h3 align="center">A passionate AI, ML and Consult enthusiast from Jhansi Uttar Pradesh, India</h3>
 
 - 🌱 I’m currently learning **DSA, SQL and ANSYS Fluent**
+- 
+- 🌱 I’m currently a prefinal year student in **Mechanical Engineering Department** at **Indian Institute of Technology Kanpur**
 
 - 📫 Reach me out at **vaibhavitauriya@gmail.com** or **vaibhav23@iitk.ac.in**
 
