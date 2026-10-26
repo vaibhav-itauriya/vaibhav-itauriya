@@ -1,129 +1,107 @@
 <div align="center">
 
-# Hi, I'm Vaibhav Itauriya 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+  <img src="./assets/terminal-light.svg" alt="Terminal showing whoami: Vaibhav Itauriya, Mechanical Engineering at IIT Kanpur, Product + Software + ML" width="100%">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C5CFF&center=true&vCenter=true&width=620&lines=Product+%2B+Software+%2B+ML;Mechanical+Engineering+%40+IIT+Kanpur;I+like+building+things+people+actually+use)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-sandy-two-97.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-itauriya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavitauriya@gmail.com)
+<sub>
+<a href="https://portfolio-website-sandy-two-97.vercel.app">portfolio</a> &nbsp;/&nbsp;
+<a href="https://linkedin.com/in/vaibhav-itauriya">linkedin</a> &nbsp;/&nbsp;
+<a href="mailto:vaibhavitauriya@gmail.com">email</a>
+</sub>
 
 </div>
 
----
-
-## 💫 About Me
-
-- 🎓 Senior undergrad in **Mechanical Engineering at IIT Kanpur**, who ended up loving software, ML and product just as much
-- 🚗 Software Intern on the **Software Defined Vehicle** team at **Jaguar Land Rover**, Bengaluru, where my team won **1st place at the JLR Global Hackathon**
-- 💳 Product Management Intern at **PFA India**, a personal finance product for credit cards and FIRE planning
-- 🧭 One of the **Overall Placement Coordinators** at the **Students' Placement Office (SPO), IIT Kanpur**. We oversee the SPO Web Team (2 Web Heads and their Web Executives) and turn what students and recruiters need into requirements for our placement portal
-- 🌱 Currently exploring **LLM agents, speech AI for Indian languages and entity resolution at scale**
-
----
-
-## 🚀 Featured Work
-
-| Project | What I built | Built with |
-|---|---|---|
-| 🛒 **[Amazon ML Challenge 2026](https://github.com/vaibhav-itauriya/Amazon-ML-Challenge-2026)** | Business entity resolution across 3 noisy, multilingual sources. A multi-stage pipeline with blocking, two LightGBM stages, Indic transliteration and an F0.5-optimal decision step. **Macro F0.5 of 0.98654** out of fold on 1.77M records | Python, LightGBM, TF-IDF, rapidfuzz, numba |
-| 🌀 **[Rattleback Dynamics (UGP)](https://github.com/vaibhav-itauriya/ugp-rattleback)** | Research with Prof. Dipayan Mukherjee on slipping contact friction in rattleback dynamics, with a paper and an **[interactive 3D simulator](https://vaibhav-itauriya.github.io/ugp-rattleback/)** that runs the same equations in the browser | MATLAB, LaTeX, JavaScript |
-| 📦 **[Bharat Trial Network](https://github.com/vaibhav-itauriya/moshi-moshi-meesho-dice-3.0)** | Team Moshi Moshi's Meesho DICE Season 3 entry. Brands pay to put a free sample in a Bharat household, hear back in days and see if she bought it 90 days later. **[Live prototype](https://vaibhav-itauriya.github.io/moshi-moshi-meesho-dice-3.0/)** | HTML, CSS, JavaScript |
-| 🏛️ **[SabhaSaar](https://github.com/vaibhav-itauriya/sarvam-sabhasaar)** | Minutes for Gram Sabhas, Assembly debates and court hearings, with a spoken summary and voice Q&A in 11 Indian languages. **[Live demo](https://sarvam-sabhasaar.onrender.com)** | Python, FastAPI, Sarvam AI |
-| 🛰️ **[Satellite-Map CycleGAN](https://github.com/vaibhav-itauriya/EE655-CV-DL)** | Course project for EE655 (Computer Vision and Deep Learning). Translates satellite images to maps and back with CycleGAN, plus all course assignments | Python, PyTorch, Jupyter |
-| 🔎 **[SARCathon 2024 FAQ Search](https://github.com/vaibhav-itauriya/SARCathon-2024---AI-Hackathon)** | Team Chanakya's FAQ search app with fuzzy matching, semantic search, live suggestions and feedback collection | Flask, Sentence Transformers, FAISS |
-| 🕵️ **[DeeployCV](https://github.com/vaibhav-itauriya/DeeployCV)** | A deepfake image detector. Upload a photo and the model says if it is real or fake. Built during the GDG DeeployCV project | TensorFlow, Keras, Streamlit |
-
-<details>
-<summary><b>More projects</b></summary>
 <br>
 
-| Project | What it is |
-|---|---|
-| 🌐 [Portfolio Website](https://github.com/vaibhav-itauriya/Portfolio-Website) | My personal site, [live on Vercel](https://portfolio-website-sandy-two-97.vercel.app) (React, TypeScript) |
-| 📚 [Course Portal](https://github.com/vaibhav-itauriya/course-portal) | Sign up, log in and manage your courses with code, credits and timings, [live on Vercel](https://course-portal-jet.vercel.app) (React, TypeScript, Supabase) |
-| 📖 [Casebook 2025, Product Club](https://github.com/vaibhav-itauriya/Casebook-2025-Product-Club) | Product interview transcripts, shortlisted decks and final cases from Flipkart, HiLabs and more |
-| 🌍 [IR Wing Website](https://github.com/vaibhav-itauriya/IR-Wing-Repo) | Website for the International Relations Wing, IIT Kanpur (HTML, CSS) |
-| 🧪 [GDG DeeployCV Assignments](https://github.com/vaibhav-itauriya/231115_Vaibhav_Itauriya_DeeployCV) | Computer vision assignments from the GDG DeeployCV project |
-| 🎨 [GDSC Web Dev Projects](https://github.com/vaibhav-itauriya/GDSC-Web-Dev-Basics-and-Application-project) | My first web projects from GDSC, including a React and Firebase app |
+## `~/about`
+
+```python
+class Vaibhav:
+    studies   = "Mechanical Engineering @ IIT Kanpur"
+    worked_at = {
+        "Jaguar Land Rover": "Software Intern, Software Defined Vehicle team",
+        "PFA India":         "Product Management Intern",
+    }
+    role      = "Overall Placement Coordinator, SPO IIT Kanpur"
+    loves     = ["talking to users", "writing the spec", "building it myself"]
+    exploring = ["LLM agents", "Indic speech AI", "entity resolution"]
+    open_to   = ["Product roles", "Software roles"]
+```
+
+## `~/projects`
+
+🛒 **[Amazon ML Challenge 2026](https://github.com/vaibhav-itauriya/Amazon-ML-Challenge-2026)** &nbsp;`Python` `LightGBM`<br>
+<sub>Business entity resolution across 3 noisy, multilingual sources. Blocking, two LightGBM stages and Indic transliteration. **Macro F0.5 0.98654** on 1.77M records.</sub>
+
+🌀 **[Rattleback Dynamics](https://github.com/vaibhav-itauriya/ugp-rattleback)** &nbsp;`MATLAB` `LaTeX` `JS`<br>
+<sub>UGP research with Prof. Dipayan Mukherjee on slipping contact friction. A paper plus an **[interactive 3D simulator](https://vaibhav-itauriya.github.io/ugp-rattleback/)**.</sub>
+
+📦 **[Bharat Trial Network](https://github.com/vaibhav-itauriya/moshi-moshi-meesho-dice-3.0)** &nbsp;`HTML` `JS`<br>
+<sub>Meesho DICE Season 3. Brands put a free sample in a Bharat household and see if she buys 90 days later. **[Live prototype](https://vaibhav-itauriya.github.io/moshi-moshi-meesho-dice-3.0/)**</sub>
+
+🏛️ **[SabhaSaar](https://github.com/vaibhav-itauriya/sarvam-sabhasaar)** &nbsp;`FastAPI` `Sarvam AI`<br>
+<sub>Minutes and voice Q&A for Gram Sabhas and public meetings in 11 Indian languages. **[Live demo](https://sarvam-sabhasaar.onrender.com)**</sub>
+
+🛰️ **[Satellite-Map CycleGAN](https://github.com/vaibhav-itauriya/EE655-CV-DL)** &nbsp;`PyTorch`<br>
+<sub>EE655 course project. Translates satellite images to maps and back.</sub>
+
+🔎 **[SARCathon 2024 FAQ Search](https://github.com/vaibhav-itauriya/SARCathon-2024---AI-Hackathon)** &nbsp;`Flask` `FAISS`<br>
+<sub>Fuzzy and semantic FAQ search with live suggestions.</sub>
+
+🕵️ **[DeeployCV](https://github.com/vaibhav-itauriya/DeeployCV)** &nbsp;`Keras` `Streamlit`<br>
+<sub>Upload a photo and the model tells you if it is real or a deepfake.</sub>
+
+<details>
+<summary><code>ls ./more</code></summary>
+<br>
+
+- **[Portfolio Website](https://github.com/vaibhav-itauriya/Portfolio-Website)** &nbsp;<sub>React, TypeScript, [live](https://portfolio-website-sandy-two-97.vercel.app)</sub>
+- **[Course Portal](https://github.com/vaibhav-itauriya/course-portal)** &nbsp;<sub>sign up, log in and manage courses. React, Supabase, [live](https://course-portal-jet.vercel.app)</sub>
+- **[Casebook 2025, Product Club](https://github.com/vaibhav-itauriya/Casebook-2025-Product-Club)** &nbsp;<sub>product interview transcripts, decks and cases</sub>
+- **[IR Wing Website](https://github.com/vaibhav-itauriya/IR-Wing-Repo)** &nbsp;<sub>International Relations Wing, IIT Kanpur</sub>
+- **[GDG DeeployCV Assignments](https://github.com/vaibhav-itauriya/231115_Vaibhav_Itauriya_DeeployCV)** &nbsp;·&nbsp; **[GDSC Web Dev Projects](https://github.com/vaibhav-itauriya/GDSC-Web-Dev-Basics-and-Application-project)**
 
 </details>
 
----
+## `~/wins`
 
-## 🏆 Wins
+```text
+$ cat wins.log
+JLR Global Hackathon, Jaguar Land Rover ....... 1st place
+Bizzaro, IITB x Piramal ....................... 2nd of 300+ teams
+Inter IIT Tech Meet 13.0, Consulting .......... 5th of 23 IITs
+ConsultQuest, IITB x Piramal .................. 5th of 300+ teams
+ZS Campus Beats 2026 .......................... Top 10 nationally, PPI
+ProdMad 4.0, IIM Shillong ..................... National Finalist, Top 10 of 2000+
+```
 
-| | Competition | Result |
-|---|---|---|
-| 🥇 | JLR Global Hackathon, Jaguar Land Rover | **1st place** |
-| 🥈 | Bizzaro, IITB × Piramal | **2nd of 300+ teams** |
-| 🏅 | Inter IIT Tech Meet 13.0, Consulting Case | **5th of 23 IITs** |
-| 🏅 | ConsultQuest, IITB × Piramal | **5th of 300+ teams** |
-| 🎯 | ZS Associates Campus Beats 2026 | **Top 10 nationally**, won a PPI opportunity |
-| 🎯 | ProdMad 4.0, IIM Shillong | **National Finalist**, Top 10 of 2000+ |
+## `~/stack`
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,c,ts,js,matlab,latex,pytorch,tensorflow,sklearn,react,vite,fastapi,flask,supabase,firebase,docker,vercel,git,figma,selenium,linux&perline=11&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,matlab,latex,pytorch,tensorflow,sklearn,react,vite,fastapi,flask,supabase,firebase,docker,vercel,git,figma,selenium,linux&perline=11&theme=light" alt="Python, C++, C, TypeScript, JavaScript, MATLAB, LaTeX, PyTorch, TensorFlow, scikit-learn, React, Vite, FastAPI, Flask, Supabase, Firebase, Docker, Vercel, Git, Figma, Selenium, Linux">
+</picture>
 
-## 💻 Tech Stack
+<sub>also &nbsp;`LightGBM` `Keras` `Pandas` `NumPy` `Streamlit` `FAISS` `Power BI` `Canva`</sub>
 
-**Languages**
+## `~/activity`
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=vaibhav-itauriya&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0d1117">
+  <img height="150" src="https://github-readme-stats.shion.dev/api?username=vaibhav-itauriya&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=vaibhav-itauriya&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117">
+  <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vaibhav-itauriya&theme=default&hide_border=true&layout=compact" alt="Top languages">
+</picture>
 
-**ML and Data**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vaibhav-itauriya&theme=dark&hide_border=true&background=0d1117">
+  <img src="https://streak-stats.demolab.com/?user=vaibhav-itauriya&theme=default&hide_border=true" alt="GitHub streak">
+</picture>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=microsoft&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<br><br>
 
-**Web and Deploy**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-**Product and Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=vaibhav-itauriya&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vaibhav-itauriya&theme=synthwave&hide_border=true&layout=compact" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=vaibhav-itauriya&theme=synthwave&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-<div align="center">
-
-**Open to Product and Software roles. Always happy to talk about building for Bharat.**
-
-</div>
+<div align="center"><sub><code>vaibhav@iitk ~ $ echo "Open to Product and Software roles. Always happy to talk about building for Bharat."</code></sub></div>
